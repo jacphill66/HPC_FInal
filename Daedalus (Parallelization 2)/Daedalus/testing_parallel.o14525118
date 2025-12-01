@@ -1,0 +1,34 @@
+Job ID: 14525118
+Job Name: testing_parallel
+Nodes: 1
+Tasks: 64
+CPUs per task: 
+Working directory: /anvil/projects/x-cis250773/Daedalus (Parallelization 2)/Daedalus
+
+/var/spool/slurm/job14525118/slurm_script: line 23: cd: too many arguments
+Running testing_parallel.py with 64 MPI processes...
+Ending Stack: bytearray(b'')
+6.599479897995479
+Completed Execution
+Ending Stack: bytearray(b'')
+13.20089483098127
+Completed Execution
+Ending Stack: bytearray(b'')
+26.54467143304646
+Completed Execution
+Ending Stack: bytearray(b'')
+52.4400263580028
+Completed Execution
+Ending Stack: bytearray(b'')
+105.94722297997214
+Completed Execution
+Ending Stack: bytearray(b'')
+211.748467686004
+Completed Execution
+Ending Stack: bytearray(b'')
+25.743327817996033
+Completed Execution
+Ending Stack: bytearray(b'')
+13.918672978994437
+Completed Execution
+Job completed successfully!
