@@ -1,0 +1,33 @@
+Job ID: 14524826
+Job Name: testing_parallel
+Nodes: 1
+Tasks: 128
+CPUs per task: 
+Working directory: /anvil/projects/x-cis250773/Daedalus
+
+Running testing_parallel.py with 128 MPI processes...
+Time: 0.12267232593148947
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 0.22181079490110278
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 0.47963193198665977
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 1.0058235242031515
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 2.477796673309058
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 5.05396273592487
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 10.957345840986818
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 22.84568115696311
+Ending Stack: bytearray(b'')
+Completed Execution
+Job completed successfully!

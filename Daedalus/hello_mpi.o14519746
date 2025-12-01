@@ -1,0 +1,21 @@
+Job ID: 14519746
+Job Name: hello_mpi
+Nodes: 1
+Tasks: 1
+CPUs per task: 
+Working directory: /anvil/projects/x-cis250773/Daedalus
+
+Running testing_parallel.py with 1 MPI processes...
+Time: 6.563407106994418
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 13.004937834019074
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 26.023266611999134
+Ending Stack: bytearray(b'')
+Completed Execution
+Time: 52.20414409201476
+Ending Stack: bytearray(b'')
+Completed Execution
+slurmstepd: error: *** JOB 14519746 ON a240 CANCELLED AT 2025-11-29T00:27:41 ***
